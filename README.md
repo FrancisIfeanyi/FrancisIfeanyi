@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrancisIfeanyi
 - 👀 I’m interested in Mobile App Devops, React, Node.js, Product Designs
-- 🌱 I’m currently learning React, Flutter, Dax
+- 🌱 I’m currently learning React, Flutter, Dart
 - 💞️ I’m looking to collaborate on Fintech, Education and Medical App Development
 - 📫 How to reach me odorifeanyi@gmail.com
 
